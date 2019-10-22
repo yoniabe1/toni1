@@ -1,2 +1,3 @@
 test = [1,2,3]
-print (test[0])
+test2 = [2,5,9]
+print (test2[0])
